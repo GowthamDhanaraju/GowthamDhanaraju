@@ -9,8 +9,7 @@
 ## 👨‍💻 About Me
 
 🎓 AI-focused CS undergrad | 💡 Passionate about **AI, Big Data & Robotics**
-🚀 Exploring **Next.js, PyTorch, Spark, and SDR**
-🤖 Currently building **autonomous robots & vision-based turret systems**
+🚀 Exploring **AI , Fullstack and Robotics**
 
 ---
 
@@ -27,28 +26,10 @@
 
 ---
 
-## 🚀 Projects
-
-🔹 [CVD Detection & Correction](https://github.com/GowthamDhanaraju/CVD-detection-and-correction) – AI for vision deficiency.
-🔹 Autonomous Surveillance & Turret Robot – Robotics + AI + Edge computing.
-🔹 [Evalify](https://github.com/evalify/evalify-frontend) – Frontend contributor.
-and more...
-
----
-
 ## 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju\&show_icons=true\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=GowthamDhanaraju\&theme=tokyonight\&border_radius=5)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamDhanaraju\&layout=compact\&theme=tokyonight)
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox\&logoColor=white)](https://yourwebsite.com)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />  
