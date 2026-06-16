@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=220&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=00FF99&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=100&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=00FF99&animation=twinkling"/>
 
 </div>
 
 <h3 align="center">AI × Full Stack × Robotics Developer</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Initializing+AI+Systems...;Building+Intelligent+Machines+🤖;Loading+Computer+Vision+Modules...;Engineering+Software+%2B+Hardware+Solutions+🔧" />
-
+4th Year Undergraduate Student in Artificial Intelligence and Data Science <br><br>
 </p>
-
-
 
 <div align="center">
 
