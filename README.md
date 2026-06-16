@@ -37,7 +37,6 @@
 </p>
 
 ---
-## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -46,7 +45,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&background=0d1117&hide_border=true" height="170"/>
 
 </p>
----
+
 
 ## 🌐 Connect With Me
 
@@ -69,16 +68,6 @@
 </a>
 
 </p>
----
-
-## 👁️ Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&label=Profile%20Views&style=for-the-badge&color=00FF99"/>
-</p>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=100&section=footer"/>
