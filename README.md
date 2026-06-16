@@ -1,19 +1,15 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=100&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=00FF99&animation=twinkling"/>
-
 </div>
 
 <h3 align="center">AI × Full Stack × Robotics Developer</h3>
 
 <p align="center">
-4th Year Undergraduate Student in Artificial Intelligence and Data Science <br><br>
+4th Year Undergraduate Student in Artificial Intelligence and Data Science <br>
 </p>
-
 <div align="center">
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=cpp" />
