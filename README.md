@@ -46,9 +46,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&background=0d1117&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&background=0d1117" height="170"/>
 
 </p>
 
