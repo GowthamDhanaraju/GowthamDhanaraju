@@ -12,19 +12,6 @@
 
 </p>
 
----
-
-## 🧬 About Me
-
-🎓 Computer Science Undergraduate specializing in Artificial Intelligence
-
-🚀 Building projects in AI, Full Stack, Computer Vision & Robotics
-
-💡 Focused on intelligent systems that combine software, ML models, and hardware
-
-🌱 Always learning and improving
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +23,7 @@
 
 </p>
 
----
+
 
 <p align="center">
 
