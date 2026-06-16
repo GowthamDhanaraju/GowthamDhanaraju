@@ -27,13 +27,10 @@
 <img src="https://skillicons.dev/icons?i=opencv" />
 <img src="https://skillicons.dev/icons?i=arduino" />
 <img src="https://skillicons.dev/icons?i=raspberrypi" />
-<img src="https://skillicons.dev/icons?i=spark" />
 
 </div>
 
 </div>
-
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117" height="170"/>
