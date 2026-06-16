@@ -1,94 +1,91 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gowtham%20Dhanaraju%20%7C%20AI%20%C3%97%20Full%20Stack%20%C3%97%20Robotics%20%F0%9F%9A%80&fontSize=32&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+through+AI+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Computer+Vision+%26+Robotics+Enthusiast+%F0%9F%94%A7;Exploring+Big+Data+%26+Machine+Learning+%F0%9F%93%8A" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=AI+%C3%97+Full+Stack+%C3%97+Robotics+Engineer+in+Progress+%F0%9F%A4%96;Building+intelligent+systems+through+AI+%F0%9F%A7%A0;Creating+software+that+connects+with+the+real+world+%F0%9F%A4%96;Computer+Vision+%26+Robotics+Explorer+%F0%9F%94%A7" />
+
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gowtham-dhanaraju-4b482a28a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:gowtham200626@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-</a>
-<a href="https://leetcode.com/u/kongkilla/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black">
-</a>
-</p>
+## 🧠 About Me
 
----
-
-## 👨‍💻 About Me
-
+```text
 🎓 Computer Science Undergraduate specializing in Artificial Intelligence
 
 🚀 Building projects in AI, Full Stack, Computer Vision & Robotics
 
-💡 Interested in creating intelligent systems that combine software, machine learning and hardware
+⚡ Interested in intelligent systems, autonomous machines and scalable software
+
+🌱 Constantly exploring new technologies and solving real-world problems
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Arsenal
 
-### Languages
+### 🧑‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+<p>
 
-### Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+</p>
 
-### AI / ML
+### 🌐 Full Stack
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface\&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### Data / Tools / Hardware
+### 🧠 Artificial Intelligence
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+
+### 🤖 Robotics / Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi)
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🎨 CVD Detection and Correction
+## 👁️ CVD Detection and Correction
 
-AI-based system for detecting and assisting users with Color Vision Deficiency.
+AI-powered computer vision project focused on detecting and assisting people with color vision deficiency.
 
 🔗 https://github.com/GowthamDhanaraju/CVD-detection-and-correction
 
 ---
 
-### 📱 Color Vision Deficiency Mobile App
+## 📱 Color Vision Deficiency Mobile
 
-Mobile application focused on improving accessibility for users with CVD.
+A mobile accessibility solution designed around color vision assistance.
 
 🔗 https://github.com/GowthamDhanaraju/Color_Vision_Deficiency_Mobile
 
 ---
 
-### 🤖 Intruder Defence System with Precision Shooting
+## 🤖 Intruder Defence System with Precision Shooting
 
-AI-powered robotics project combining computer vision, embedded systems and autonomous targeting.
+A robotics-based AI surveillance system combining:
+
+* Computer Vision
+* CNN based detection
+* Raspberry Pi
+* Arduino control
+* Autonomous targeting
 
 🔗 https://github.com/GowthamDhanaraju/Intruder-Defence-System-with-precision-shooting
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 System Diagnostics
 
 <img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight" />
 
@@ -96,19 +93,21 @@ AI-powered robotics project combining computer vision, embedded systems and auto
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=GowthamDhanaraju&theme=tokyonight" />
+---
 
-<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&label=Profile%20Views&color=blue" />
+# 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=GowthamDhanaraju&theme=tokyonight&row=1" />
 
 ---
 
-## 📈 Contribution Graph
+# 🌐 Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GowthamDhanaraju&theme=tokyo-night" />
-
----
+<a href="https://www.linkedin.com/in/gowtham-dhanaraju-4b482a28a/">LinkedIn</a> • <a href="mailto:gowtham200626@gmail.com">Email</a> • <a href="https://leetcode.com/u/kongkilla/">LeetCode</a>
 
 Instagram:
 YOUR_INSTAGRAM_LINK_HERE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer" />
