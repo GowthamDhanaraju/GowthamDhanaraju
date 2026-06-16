@@ -15,13 +15,32 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,cpp,java,react,nextjs,nodejs,mongodb,postgres,git,docker" /><br/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,spark" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=docker" />
 
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=raspberrypi" />
+<img src="https://skillicons.dev/icons?i=spark" />
+
+</div>
+
+</div>
 
 
 
