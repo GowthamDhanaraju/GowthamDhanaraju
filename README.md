@@ -42,9 +42,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&background=0d1117" height="170"/>
 
 </p>
-
-
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gowtham-dhanaraju-4b482a28a/">
