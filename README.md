@@ -37,17 +37,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&background=0d1117&hide_border=true" height="170"/>
 
 </p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -59,19 +57,18 @@
 </a>
 
 <a href="mailto:gowtham200626@gmail.com">
-<img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/kongkilla/">
-<img src="https://img.shields.io/badge/LeetCode-555555?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.instagram.com/gowtham_28.06/">
-<img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 ## 👁️ Profile Views
