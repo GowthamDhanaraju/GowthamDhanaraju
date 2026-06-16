@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=220&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=00FF99&animation=twinkling"/>
@@ -6,15 +5,16 @@
 </div>
 
 <h3 align="center">
-> AI × Full Stack × Robotics Developer
+
+AI × Full Stack × Robotics Developer
+
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=%24+Initializing+AI+Systems...;Building+Intelligent+Machines+%F0%9F%A4%96;%24+Loading+Computer+Vision+Modules...;Creating+Software+%2B+Hardware+Solutions+%F0%9F%94%A7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Initializing+AI+Systems...+🤖;Building+Intelligent+Machines;Computer+Vision+%26+Robotics+Explorer;Software+%2B+Hardware+Integration+🚀"/>
 
 </p>
-
 
 ## 🧬 About Me
 
@@ -27,137 +27,110 @@ $ education
 
 Computer Science Undergraduate specializing in Artificial Intelligence
 
-$ mission
+$ current_focus
 
-Building projects in AI, Full Stack, Computer Vision & Robotics
+AI + Full Stack + Computer Vision + Robotics
 
-$ objective
+$ goal
 
-Designing intelligent systems that connect software and the physical world
-````
+Building intelligent systems that connect software and the physical world
+```
 
 ---
 
-## 🛠️ Technology Stack
+# ⚙️ Tech Stack
 
-```yaml
-Languages:
-  - Python
-  - TypeScript
-  - C++
-  - Java
+### Programming
 
-Frontend:
-  - React
-  - Next.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
 
-Backend:
-  - Node.js
-  - SQL
-  - MongoDB
+### Full Stack
 
-AI:
-  - PyTorch
-  - TensorFlow
-  - Hugging Face
-  - OpenCV
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 
-Data:
-  - Apache Spark
+### Artificial Intelligence
 
-Hardware:
-  - Arduino
-  - Raspberry Pi
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
 
-Tools:
-  - Git
-  - Docker
-```
+### Data / Hardware
+
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge\&logo=apachespark)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge\&logo=raspberrypi)
 
 ---
 
 # 🚀 Projects
 
-## 🔹 CVD Detection and Correction
+## 🎨 CVD Detection and Correction
 
-```text
-AI Computer Vision System
-Purpose:
-Detect and assist users with Color Vision Deficiency
-```
+AI based computer vision system for detecting and assisting users with Color Vision Deficiency.
 
-Repository:
-https://github.com/GowthamDhanaraju/CVD-detection-and-correction
+🔗 https://github.com/GowthamDhanaraju/CVD-detection-and-correction
 
 ---
 
-## 🔹 Color Vision Deficiency Mobile
+## 📱 Color Vision Deficiency Mobile
 
-```text
-Mobile Accessibility Application
+Mobile accessibility application designed for CVD assistance.
 
-Focus:
-Improving visual perception support for CVD users
-```
-
-Repository:
-https://github.com/GowthamDhanaraju/Color_Vision_Deficiency_Mobile
+🔗 https://github.com/GowthamDhanaraju/Color_Vision_Deficiency_Mobile
 
 ---
 
-## 🔹 Intruder Defence System With Precision Shooting
+## 🤖 Intruder Defence System with Precision Shooting
 
-```text
-Robotics + AI System
+AI robotics system combining:
 
-Modules:
-✔ Computer Vision
-✔ CNN Detection
-✔ Raspberry Pi
-✔ Arduino Control
-✔ Automated Targeting
-```
+* Computer Vision
+* CNN Detection
+* Raspberry Pi
+* Arduino
+* Automated Targeting
 
-Repository:
-https://github.com/GowthamDhanaraju/Intruder-Defence-System-with-precision-shooting
+🔗 https://github.com/GowthamDhanaraju/Intruder-Defence-System-with-precision-shooting
 
 ---
 
-# 📡 GitHub Monitoring System
+# 📡 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=chartreuse-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamDhanaraju&layout=compact&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamDhanaraju&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GowthamDhanaraju&theme=matrix"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GowthamDhanaraju&theme=tokyonight"/>
 
 ---
 
-# 🌐 Network Links
+# 🌐 Connect
 
-```
-LinkedIn:
+LinkedIn
 https://www.linkedin.com/in/gowtham-dhanaraju-4b482a28a/
 
-Email:
-gowtham200626@gmail.com
+Email
+[gowtham200626@gmail.com](mailto:gowtham200626@gmail.com)
 
-LeetCode:
+LeetCode
 https://leetcode.com/u/kongkilla/
 
-Instagram:
+Instagram
 YOUR_INSTAGRAM_LINK_HERE
-```
 
----
-
-<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&label=SYSTEM%20VISITS&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&style=for-the-badge"/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:001F3F&height=100&section=footer"/>
 
 </div>
-```
