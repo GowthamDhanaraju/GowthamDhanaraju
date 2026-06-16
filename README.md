@@ -18,25 +18,18 @@ AI × Full Stack × Robotics Developer
 
 ## 🧬 About Me
 
-```bash
-$ whoami
+🎓 Computer Science Undergraduate specializing in Artificial Intelligence
 
-Gowtham Dhanaraju
+```text
+> Building intelligent systems through AI, Full Stack Development & Robotics
 
-$ education
+> Exploring Computer Vision, Machine Learning and Big Data
 
-Computer Science Undergraduate specializing in Artificial Intelligence
+> Creating projects that combine software, AI models and hardware systems
 
-$ current_focus
-
-AI + Full Stack + Computer Vision + Robotics
-
-$ goal
-
-Building intelligent systems that connect software and the physical world
+> Always learning and experimenting with new technologies 🚀
 ```
 
----
 
 # ⚙️ Tech Stack
 
