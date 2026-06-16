@@ -42,9 +42,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GowthamDhanaraju&show_icons=true&theme=tokyonight&title_color=00FF99&icon_color=00FF99&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamDhanaraju&theme=tokyonight&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="170"/>
 
 </p>
 
@@ -55,7 +55,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/gowtham-dhanaraju-4b482a28a/">
-<img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gowtham200626@gmail.com">
@@ -77,7 +77,7 @@
 ## 👁️ Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&label=Profile%20Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=GowthamDhanaraju&label=Profile%20Views&style=for-the-badge&color=00FF99"/>
 </p>
 
 ---
