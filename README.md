@@ -13,7 +13,6 @@
 </p>
 
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -42,7 +41,7 @@
 
 </div>
 
-
+<p></p>
 
 <p align="center">
 
@@ -53,7 +52,6 @@
 </p>
 
 
-## 🌐 Connect With Me
 
 <p align="center">
 
@@ -74,8 +72,3 @@
 </a>
 
 </p>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=100&section=footer"/>
-
-</div>
