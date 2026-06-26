@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F3F&height=100&section=header&text=Gowtham%20Dhanaraju&fontSize=55&fontColor=00FF99&animation=twinkling"/>
 </div>
 
-<h3 align="center">AI × Full Stack × Robotics Developer</h3>
+<h3 align="center">AI × Full Stack × Robotics</h3>
 
 <p align="center">
 4th Year Undergraduate Student in Artificial Intelligence and Data Science <br>
